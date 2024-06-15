@@ -5,6 +5,7 @@
 This project aims to develop a model that can accurately recognize food items from images and estimate their calorie content.
 
 ## Directory Structure
+```
 food_calorie_estimator/
 ├── data/
 │ └── food-101/
@@ -20,7 +21,7 @@ food_calorie_estimator/
 │ └── evaluate.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Setup
 
 1. Clone the repository.
