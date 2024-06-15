@@ -50,4 +50,13 @@ Create the files and directories as outlined above.
 Install the Python extension for VS Code if you haven't already.
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 pip install -r requirements.txt
+```
+
+## Outputs
+### MODEL 1
+![1.](https://github.com/AyushGorlawar/PRODIGY_ML_05/blob/main/src/Output%201.png)
+
+### MODEL 2
+![2.](https://github.com/AyushGorlawar/PRODIGY_ML_05/blob/main/src/Output%202.png)
